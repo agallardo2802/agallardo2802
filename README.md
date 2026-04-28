@@ -9,6 +9,7 @@
 **`Conceptos sobre código. Fundamentos sobre frameworks.`**
 
 [![Website](https://img.shields.io/badge/GG%20Soluciones-0f1c2e?style=for-the-badge&logo=google-chrome&logoColor=3B82F6)](https://agallardo2802.github.io/gg-soluciones-web/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agallardo2802/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5493885120704)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/agallardo2802)
 
