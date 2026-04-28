@@ -59,8 +59,11 @@
 **IA & Automatización**
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![N8N](https://img.shields.io/badge/N8N-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-0ea5e9?style=flat-square&logo=openai&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white)
+![LLM](https://img.shields.io/badge/LLMs-6366f1?style=flat-square&logo=ai&logoColor=white)
+![N8N](https://img.shields.io/badge/N8N-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 **Arquitectura**
 
